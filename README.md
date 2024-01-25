@@ -12,6 +12,8 @@ This report provides a comprehensive analysis of Metrocar’s customer funnel. T
 - User Engagement based on Age Group.
 - Distribution of ride requests throughout the day.
 - Identifying the lowest conversion rate.
+  ### SQL was used to query the data and Tableau for data visualization. 
+
 ## Conclusion
 In our analysis we found out that:
 - The “ride completion” and “ride request” stages experience almost a 50% drop-off rate each, making those funnel steps a primary target to research and improve.
